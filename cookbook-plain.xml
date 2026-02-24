@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook>
+    <metadata>
+        <title>My cookbook</title>
+    </metadata>
+    <content>
+        <chapter>
+            <chapterHead>Chapter 1</chapterHead>
+            <recipe>
+                <name>Shepherd's Pie</name>
+                <ingredients>
+                    <ingred>Ingredient 1</ingred>
+                    <ingred>Ingredient 2</ingred>
+                    <ingred>Ingredient 3</ingred>
+                    <ingred>Ingredient 4</ingred>
+                </ingredients>
+                <method>
+                    <p>Do this</p>
+                    <p>Then that</p>
+                </method>
+            </recipe>
+        </chapter>
+    </content>
+</cookbook>
